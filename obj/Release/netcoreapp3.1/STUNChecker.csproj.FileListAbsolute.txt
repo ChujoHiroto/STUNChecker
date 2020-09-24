@@ -1,0 +1,13 @@
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.exe
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.deps.json
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.runtimeconfig.json
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.runtimeconfig.dev.json
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.dll
+F:\Lab\STUNChecker\bin\Release\netcoreapp3.1\STUNChecker.pdb
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.csprojAssemblyReference.cache
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.AssemblyInfoInputs.cache
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.AssemblyInfo.cs
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.csproj.CoreCompileInputs.cache
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.dll
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.pdb
+F:\Lab\STUNChecker\obj\Release\netcoreapp3.1\STUNChecker.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZu9QUhG8VTkCyU+HfIz9wL4+xz+KwiibNbbh0JTaxCvhAaQ1r9UuM/MgoggP+7Ii17ZU79/oqNBCtsiiYOFyQ==",
+  "success": true,
+  "projectFilePath": "F:\\Lab\\STUNChecker\\STUNChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiroto\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\hiroto\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\hiroto\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
